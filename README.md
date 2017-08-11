@@ -2,9 +2,9 @@
 
 ## Presentation Slides
 
-- <a href=''>Welcome to Flatiron School</a>
-- <a href=''>First Day Handout</a>
-- <a href=''>How to Get the Most out of Presentations</a>
+- <a href='./Orientation Deck.pdf'>Welcome to Flatiron School</a>
+- <a href='./First Day Handout.pdf'>First Day Handout</a>
+- <a href='./How to get the most out of Flatiron School speakers!.pdf'>How to Get the Most out of Presentations</a>
 
 ## Youtube Playlists
  - <a href='https://www.youtube.com/playlist?list=PLJqijKi-heknXOAeVAy6w18LRmZtZUsgn'>Product Series</a>
